@@ -23,7 +23,7 @@ function App() {
             type="text"
             id="fname"
             name="fname"
-            placeholder="email address or phone number"
+            placeholder="email address or phone"
           />
         </div>
         <div className="input">
